@@ -1,0 +1,42 @@
+.container {
+    background-color: blue;
+    width: 100%;
+    max-width: 100%;
+    color: white;
+    height: 150px;
+    text-align: center;
+    align-items: center;
+}
+
+.container h1 {
+    padding: 10px 10px 12px 0;
+    text-align: center;
+    align-items: center;
+    font-size: 80px;
+    font-family: 'SemiBold', sans-serif;
+}
+
+/*
+
+#imagem1{
+    width: valor px;
+    heigth: valor px;
+}
+
+*/
+
+#pista2{
+    display: none;
+}
+
+#pista3{
+    display: none;
+}
+
+#resultado{
+    display: none;
+}
+
+#palpite {
+
+}
